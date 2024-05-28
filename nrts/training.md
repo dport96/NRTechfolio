@@ -4,7 +4,7 @@ type: nrt
 title: "Training Plan"
 # All dates must be YYYY-MM-DD format!
 date:
-published: true
+published: false
 labels:
   - Training
 ---
