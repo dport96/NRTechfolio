@@ -2,7 +2,7 @@
   "basics": {
     "name": "June Zhang",
     "label": "Assistant Professor",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/june.jpg",
     "email": "zjz@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https:/junezhang.net",
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Digital/Graph Signal Processing" },
+    { "name": "Dynamical Systems" },
+    { "name": "Graph Neural Networks" },
+    { "name": "Representation Learning" },
+    { "name": "Knowledge Graph Embedding" }
   ],
   "skills": [
     {
