@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
-date: 2015
+date: 2024
 published: true
 labels:
   - Robotics
   - Arduino
   - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Improving knowledge graph embedding by sampling better negative samples" 
 ---
 
 <div class="text-center p-4">
@@ -36,4 +36,3 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
